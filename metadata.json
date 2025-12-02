@@ -1,0 +1,5 @@
+{
+  "name": "IGCSE & IAL Ace - AI Tutor",
+  "description": "An intelligent practice platform for CIE IGCSE and Edexcel IAL exams. Features AI-generated past-paper style questions, automatic grading, and syllabus-specific practice for CS, Science, Math, ESL, and Sociology.",
+  "requestFramePermissions": []
+}
