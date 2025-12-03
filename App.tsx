@@ -75,7 +75,7 @@ const App: React.FC = () => {
                 Master Your Exams
               </h1>
               <p className="text-lg text-slate-600">
-                Select a subject to start practicing with AI-generated questions based on CIE and Edexcel syllabus patterns.
+                Select a subject to start practicing with AI-generated questions based on CIE and Edexcel syllabus patterns. You may need to connect the VPN to connect the Gemini services.
               </p>
             </div>
 
